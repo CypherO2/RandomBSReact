@@ -1,9 +1,8 @@
+import ListGroup from './Components/ListGroup'
 
 function App() {
 
-  return (
-    <></>
-  )
+  return <><ListGroup/></>
 }
 
 export default App
